@@ -1,0 +1,100 @@
+ABC1D01; Azul; Ford; 2; Carro; 0; 8
+BCD2E02; Vermelho; Toyota; 2; Carro; 0; 10
+CDE3F03; Branco; Honda; 2; Carro; 1; 7
+DEF4G04; Preto; BMW; 4; Caminhao; 0; 15
+EFG5H05; Verde; Mercedes; 2; Carro; 0; 12
+FGH6I06; Amarelo; Chevrolet; 2; Carro; 0; 11
+GHI7J07; Azul Claro; Hyundai; 2; Carro; 2; 6
+HIJ8K08; Cinza; Volkswagen; 4; Caminhao; 0; 18
+IJK9L09; Roxo; Kia; 2; Moto; 0; 9
+JKL0M10; Rosa; Yamaha; 2; Moto; 1; 7
+KLM1N11; Laranja; Suzuki; 4; Caminhao; 2; 5
+LMN2O12; Verde Escuro; Jaguar; 2; Carro; 0; 14
+MNO3P13; Bege; Subaru; 2; Carro; 0; 13
+NOP4Q14; Marrom; Peugeot; 2; Carro; 1; 8
+OPQ5R15; Dourado; Fiat; 2; Carro; 0; 15
+PQR6S16; Prata; Mitsubishi; 4; Caminhao; 0; 19
+QRS7T17; Azul Marinho; Renault; 2; Moto; 0; 10
+RST8U18; Vinho; Ducati; 2; Moto; 1; 7
+STU9V19; Ouro; Lamborghini; 4; Caminhao; 2; 5
+TUV0W20; Verde Água; Maserati; 2; Carro; 0; 16
+UVW1X21; Cinza Claro; Nissan; 2; Moto; 0; 11
+VWX2Y22; Rosa Choque; Harley-Davidson; 2; Moto; 1; 8
+WXY3Z23; Turquesa; Porsche; 4; Caminhao; 0; 20
+XYZ4A24; Bronze; Rolls-Royce; 2; Carro; 0; 14
+YZA5B25; Creme; Jeep; 2; Carro; 2; 6
+ZAB6C26; Azul Petróleo; Dodge; 4; Caminhao; 0; 18
+ABC7D27; Coral; Aston Martin; 2; Moto; 0; 9
+BCD8E28; Violeta; Ferrari; 2; Carro; 1; 7
+CDE9F29; Mostarda; Lexus; 4; Caminhao; 2; 6
+DEF0G30; Lavanda; Tesla; 2; Carro; 0; 17
+EFG1H31; Champagne; Volvo; 2; Carro; 0; 15
+FGH2I32; Azul Royal; Mazda; 2; Carro; 0; 13
+GHI3J33; Cinza Grafite; Skoda; 4; Caminhao; 0; 20
+HIJ4K34; Prata Metálico; Land Rover; 2; Carro; 1; 8
+IJK5L35; Vinho Escuro; Bugatti; 2; Carro; 0; 14
+JKL6M36; Verde Limão; Audi; 2; Carro; 0; 16
+KLM7N37; Coral Claro; Cadillac; 2; Carro; 2; 5
+LMN8O38; Azul Pastel; Seat; 4; Caminhao; 0; 19
+MNO9P39; Rosa Pastel; Mini; 2; Moto; 0; 12
+NOP0Q40; Verde Oliva; Bentley; 2; Moto; 1; 8
+OPQ1R41; Ciano; Buick; 4; Caminhao; 0; 18
+PQR2S42; Turquesa Escuro; Pagani; 2; Carro; 0; 15
+QRS3T43; Rubi; Lincoln; 2; Carro; 2; 6
+RST4U44; Azul Gelo; Infiniti; 2; Carro; 0; 13
+STU5V45; Verde Floresta; Saab; 2; Moto; 0; 9
+TUV6W46; Preto Fosco; Pontiac; 4; Caminhao; 1; 10
+UVW7X47; Prata Envelhecido; Hummer; 2; Carro; 0; 17
+VWX8Y48; Vermelho Cereja; Alfa Romeo; 2; Carro; 0; 11
+WXY9Z49; Ametista; McLaren; 2; Moto; 2; 6
+XYZ0A50; Cobre; Lancia; 4; Caminhao; 0; 20
+YZA1B51; Ocre; Citroen; 2; Carro; 0; 14
+ZAB2C52; Rosa Dourado; Tata; 2; Moto; 0; 12
+ABC3D53; Azul Tiffany; Morgan; 2; Carro; 1; 8
+BCD4E54; Verde Menta; Isuzu; 4; Caminhao; 0; 16
+CDE5F55; Preto Brilhante; Acura; 2; Carro; 0; 15
+DEF6G56; Ouro Rosa; Chery; 2; Carro; 2; 5
+EFG7H57; Bronze Claro; Geely; 4; Caminhao; 0; 19
+FGH8I58; Lavanda Claro; Datsun; 2; Moto; 0; 10
+GHI9J59; Rubi Claro; Smart; 2; Carro; 0; 16
+HIJ0K60; Esmeralda; Opel; 2; Carro; 1; 7
+IJK1L61; Marrom Avermelhado; Subaru; 2; Carro; 0; 12
+JKL2M62; Amarelo Canário; Ferrari; 2; Carro; 0; 14
+KLM3N63; Branco Neve; Lamborghini; 2; Carro; 1; 9
+LMN4O64; Verde Esmeralda; Lotus; 4; Caminhao; 0; 20
+MNO5P65; Violeta; Rolls-Royce; 2; Moto; 0; 13
+NOP6Q66; Azul Oceano; Mercedes-Benz; 2; Carro; 0; 11
+OPQ7R67; Vermelho Vinho; Porsche; 2; Carro; 2; 6
+PQR8S68; Bege; Maserati; 2; Carro; 0; 15
+QRS9T69; Cinza Chumbo; Lexus; 2; Carro; 0; 12
+RST0U70; Dourado; Aston Martin; 2; Moto; 1; 7
+STU1V71; Verde Água; Peugeot; 2; Carro; 0; 14
+TUV2W72; Preto Jet; Jaguar; 4; Caminhao; 0; 18
+UVW3X73; Vermelho Fogo; Tesla; 2; Carro; 0; 10
+VWX4Y74; Verde Musgo; Hyundai; 2; Carro; 2; 5
+WXY5Z75; Coral; Kia; 2; Moto; 0; 9
+XYZ6A76; Rosa Pink; Jeep; 2; Carro; 0; 13
+YZA7B77; Azul Céu; Fiat; 4; Caminhao; 0; 19
+ZAB8C78; Roxo Uva; Nissan; 2; Carro; 0; 11
+ABC9D79; Marrom Café; Suzuki; 2; Moto; 1; 8
+BCD0E80; Laranja; Chevrolet; 2; Carro; 0; 15
+CDE1F81; Preto Carvão; Dodge; 2; Carro; 2; 5
+DEF2G82; Azul Marinho; Mitsubishi; 2; Carro; 0; 16
+EFG3H83; Amarelo Ouro; Volkswagen; 4; Caminhao; 0; 18
+FGH4I84; Verde Limão; Honda; 2; Moto; 0; 10
+GHI5J85; Magenta; Toyota; 2; Carro; 0; 14
+HIJ6K86; Azul Petróleo; Renault; 2; Carro; 1; 7
+IJK7L87; Vermelho Carmim; Chrysler; 2; Carro; 0; 12
+JKL8M88; Amarelo Girassol; BMW; 4; Caminhao; 0; 19
+KLM9N89; Cinza Mouse; GMC; 2; Carro; 0; 13
+LMN0O90; Verde Bandeira; Daewoo; 2; Carro; 2; 6
+MNO1P91; Rosa Claro; Land Rover; 2; Carro; 0; 16
+NOP2Q92; Verde Floresta; Cadillac; 2; Carro; 0; 15
+OPQ3R93; Laranja Tangerina; Citroën; 2; Carro; 1; 7
+PQR4S94; Roxo Lavanda; Saab; 4; Caminhao; 0; 20
+QRS5T95; Marrom Chocolate; Hummer; 2; Moto; 0; 11
+RST6U96; Vermelho Bordô; Bentley; 2; Carro; 0; 17
+STU7V97; Amarelo Limão; Infiniti; 2; Carro; 2; 5
+TUV8W98; Cinza Grafite; Lincoln; 2; Carro; 0; 15
+UVW9X99; Azul Piscina; Mazda; 4; Caminhao; 0; 19
+VWX0Y00; Verde Menta; Bugatti; 2; Moto; 0; 12
